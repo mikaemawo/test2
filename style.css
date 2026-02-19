@@ -1,0 +1,14 @@
+
+.change-btn {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+#fetchBtn {
+    width:100px;
+    height:70px;
+    background:rgb(103, 89, 98); 
+    margin-top:10px;}    
